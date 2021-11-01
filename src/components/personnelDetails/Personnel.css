@@ -1,0 +1,10 @@
+.form-control {
+	width: 40rem;
+	background-color: rgb(231, 237, 238);
+}
+.pdetails {
+	margin-top: 3rem;
+}
+label {
+	padding-top: 1rem;
+}
